@@ -1,2 +1,2 @@
 # escola-tech-vida-nova
-meu primeiro repositorio 
+meu primeiro repositorio
