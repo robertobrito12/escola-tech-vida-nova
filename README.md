@@ -1,9 +1,7 @@
  olá sou Antonio Roberto de Figueiredo Brito
- sou tecnico em mecatronica 
+ 
  Estudante De Tecnologia Desenvolvedor Backend Em Python
-estudando desenvolvimento BackEnd
-estudando desenvolvimento FrontEnd
-  estudando habilidades digitais 
+
 escola-tech-vida-nova
 meu primeiro repositorio
 <div align="center">
